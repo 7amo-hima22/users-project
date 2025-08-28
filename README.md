@@ -17,7 +17,7 @@ A simple *Nest.js* project that demonstrates CRUD operations on users:
 ## 🛠 Prerequisites
 - Node.js (v18 or later)
 - npm 
-- Database (PostgreSQL)
+- Database (MySQL)
 
 ---
 
